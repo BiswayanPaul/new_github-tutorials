@@ -8,11 +8,11 @@ int main(){
     cin>>a;
     if (a%2==0)
     {
-        cout<<"The number you entered is even"<<endl;
+        cout<<"The number you entered is even number"<<endl;
     }
     else
     {
-        cout<<"The number you entered is odd"<<endl;
+        cout<<"The number you entered is odd number"<<endl;
     }
     
 
